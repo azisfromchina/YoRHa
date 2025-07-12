@@ -25,8 +25,6 @@
 #define kcopyin_offset                  0x002716A0
 #define kpmap_extract_offset            0x0012d3b0
 #define KMEM_TEMP_offset                0x015621E0
-
-// Kernel global variables
 #define all_cpus_offset                 0x022dfd90
 #define stopped_cpus_offset             0x022dfd38
 
