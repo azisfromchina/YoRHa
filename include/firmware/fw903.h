@@ -25,5 +25,7 @@
 #define kmtx_unlock_sleep_offset        0x002EEEF0
 #define kgeneric_stop_cpus_offset       0x00430650
 #define krestart_cpus_offset            0x00430760
+
+// Kernel global variables
 #define all_cpus_offset                 0x022DBD90
 #define stopped_cpus_offset             0x022DBD38
